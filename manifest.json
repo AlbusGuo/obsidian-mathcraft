@@ -1,7 +1,7 @@
 {
 	"id": "albus-mathcraft",
 	"name": "Mathcraft",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"minAppVersion": "1.11.4",
 	"description": "A plugin for theorem numbering, equation numbering, math-aware links, TikZ rendering, GeoGebra integration, and customizable theorem styles.",
 	"author": "Albus",
