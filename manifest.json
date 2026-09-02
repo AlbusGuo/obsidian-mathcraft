@@ -1,9 +1,9 @@
 {
-	"id": "albus-mathcraft",
-	"name": "Mathcraft",
-	"version": "3.0.0",
-	"minAppVersion": "1.11.4",
-	"description": "A plugin for theorem numbering, equation numbering, math-aware links, TikZ rendering, GeoGebra integration, and customizable theorem styles.",
+	"id": "albus-imagine",
+	"name": "Imagine",
+	"version": "1.9.1",
+	"minAppVersion": "1.12.1",
+	"description": "A comprehensive image management plugin for managing, inserting, resizing, viewing, and batch processing images.",
 	"author": "Albus",
 	"authorUrl": "https://github.com/AlbusGuo",
 	"isDesktopOnly": true
